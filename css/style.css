@@ -1,0 +1,56 @@
+body{
+    background-image: url("../img/image\ \(1\).png");
+    margin: 0px;
+}
+
+
+div{
+    background-color:rgb(241, 135, 171);
+    display:flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+   display: inline;
+   margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+
+section{
+    background-color: rgb(252, 184, 221);
+    margin: 60px 120px 30px;
+    padding: 25px;
+}
+
+article{
+    border-bottom: 2px solid black;
+    margin: 20px;
+}
+h1{
+    color: rgb(204, 27, 110);
+    font-size: 200%;
+    text-align: center;
+}
+h2{
+    color:rgb(63, 8, 34);
+    font-size: 130%;
+}
+
+
+p{
+    color :rgba(37, 3, 20, 0.911);
+}
+
+h5{
+    text-align: center;
+}
